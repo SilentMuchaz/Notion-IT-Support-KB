@@ -2,7 +2,7 @@
 
 **A self-initiated IT support documentation project designed around common first- and second-line service-desk workflows.** I used Notion to organize troubleshooting guidance, user lifecycle procedures, Microsoft 365 administration topics, security awareness, and escalation references in one knowledge base.
 
-**[Explore the Notion knowledge base](https://ultra-flock-9ab.notion.site/IT-Support-Knowledge-Base-243240fe1ebb80cba970d468bb65f345?pvs=73)** · [Project case study](IT-Support-Knowledge-Base-Case-Study.md) · [PDF overview](reports/01-it-support-knowledge-base-case-study.pdf)
+**[Explore the Notion knowledge base](https://ultra-flock-9ab.notion.site/IT-Support-Knowledge-Base-243240fe1ebb80cba970d468bb65f345?pvs=73)** · [Project case study](IT-Support-Knowledge-Base-Case-Study.md) · [PDF overview](01-it-support-knowledge-base-case-study.pdf)
 
 ## Project overview
 
